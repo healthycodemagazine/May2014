@@ -1,4 +1,5 @@
-May2014
-=======
+= Healthy Code, May 2014
+[abstract]
+May 2014 issue of the Healthy Code Magazine, http://healthycodemagazine.com.
 
-May 2014 issue of the Healthy Code Magazine
+== Code Samples
